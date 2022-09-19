@@ -4,7 +4,7 @@ Telegram Bot written in Python using PTB ver.20.0 deployed on Heroku, shows only
 
 1.Search for the bot by looking for CosmosProposals with the picture
 
-![alt text](https://github.com/sebsfr/Telegram_Bot_Cosmos_Proposals/blob/main/pictures/image.png?raw=True "Title")
+![alt text](https://github.com/sebsfr/Cosmos_Proposals_Bot/tree/main/Telegram_Bot_Cosmos_Proposals/pictures/image.png?raw=True "Title")
 
 2.  To start the bot simply type ***start*** or click the ***start*** button at the bottom of the window.
 3. Now you can choose the network to see all available proposals by typing the full name with small letters e.g. ***cosmos, juno, sifchain, chihuahua***.
