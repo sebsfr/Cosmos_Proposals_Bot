@@ -6,7 +6,7 @@ import pytz
 from requests import get
 
 
-client = discord.Client()
+client = discord.Client(intents=discord.Intents.default())
 
 
 def app(update, context):
